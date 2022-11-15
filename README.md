@@ -1,6 +1,6 @@
 # WHISPER CHAT APP
 
-[[Python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/downloads/)
+[![HTML](https://img.shields.io/badge/-HTML-brightgreen)](https://en.wikipedia.org/wiki/HTML)
 
 To use the chat app, [CLICK HERE](https://whisper-chatapp.herokuapp.com/).
 
