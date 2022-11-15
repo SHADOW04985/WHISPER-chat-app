@@ -1,4 +1,4 @@
-# WHISPER CHAT APP<p align="center"></p>
+# WHISPER CHAT APP
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green)](https://www.mongodb.com/)
 [![Express.Js](https://img.shields.io/badge/-Express.Js-blue)](https://expressjs.com/)
