@@ -20,3 +20,7 @@ To use the chat app, [CLICK HERE](https://whisper-chatapp.herokuapp.com/).
 - Dark mode is default as it is the most chosen theme by the internet users
 - As we are using Socket.IO, the website has dynamic capabilities which provides the infamous typing indicators during an active chat
 - Instant message deliveries.
+
+![image](https://user-images.githubusercontent.com/22547443/201997938-3119e385-ad72-4750-b765-feb973c4e51f.png)
+
+![image](https://user-images.githubusercontent.com/22547443/201998061-e6aa2a86-bc3b-42f5-87c0-c89b657442b3.png)
