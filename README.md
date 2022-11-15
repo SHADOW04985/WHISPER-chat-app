@@ -1,6 +1,7 @@
 # WHISPER CHAT APP
 
-[![HTML](https://img.shields.io/badge/-HTML-brightgreen)](https://en.wikipedia.org/wiki/HTML)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green)](https://www.mongodb.com/)
+[!Express.Js](https://img.shields.io/badge/-Express.Js-blue)](https://expressjs.com/)
 
 To use the chat app, [CLICK HERE](https://whisper-chatapp.herokuapp.com/).
 
