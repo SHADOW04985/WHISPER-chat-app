@@ -6,7 +6,7 @@
 [![Node.Js](https://img.shields.io/badge/-Node.Js-red)](https://nodejs.org/en/)
 [![Socket.IO](https://img.shields.io/badge/-Socket.IO-brightgreen)](https://socket.io/)
 
-To use the chat app, [CLICK HERE](https://whisper-chatapp.herokuapp.com/).
+To use the chat app, [CLICK HERE](https://whisper-chatapp.herokuapp.com/). Edit: Since heroku has stopped the free dynos, i cant host it there anymore, will be hosting somewhere else
 
 - It is a simple app where you can chat with other people using the app.
 - Built using the MERN technologies along with Socket.IO.
@@ -22,5 +22,11 @@ To use the chat app, [CLICK HERE](https://whisper-chatapp.herokuapp.com/).
 - Instant message deliveries.
 
 ![image](https://user-images.githubusercontent.com/22547443/201997938-3119e385-ad72-4750-b765-feb973c4e51f.png)
+
+![image](https://user-images.githubusercontent.com/22547443/208231632-f2bd2c7c-246e-4c79-9454-0401ede0cf6e.png)
+
+![image](https://user-images.githubusercontent.com/22547443/208231638-0f52160a-4c3c-44a3-9aa8-f0d255e2b02d.png)
+
+![image](https://user-images.githubusercontent.com/22547443/208231645-e9fa50bd-b6fa-4450-bbf2-f99302451a99.png)
 
 ![image](https://user-images.githubusercontent.com/22547443/201998061-e6aa2a86-bc3b-42f5-87c0-c89b657442b3.png)
